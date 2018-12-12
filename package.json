@@ -1,0 +1,23 @@
+{
+  "name": "metamatic-demo-server",
+  "version": "1.0.0",
+  "description": "Metamatic Demo Server provides API for the Metamatic demo apps.",
+  "engines": {
+    "node": "10.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "license": "Apache-2.0"
+}
