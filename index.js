@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const app = express();
 
-const Database = require('./lib/Database.js');
+const Database = require('./lib/Database');
 
 app.use(bodyParser.urlencoded({
   extended: true
