@@ -16,8 +16,6 @@ app.use(bodyParser.json());
 app.use(cors());
 app.use(express.static('public'));
 
-app.get('/', (req, res) => res.render('pages/index'));
-
 app.get('/api/cars', function (req, res) {
   const id = req.params.id;
   res.json(Database.getCars());
