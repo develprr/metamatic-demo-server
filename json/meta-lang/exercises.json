@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "_id": 1,
+    "sourceLanguage": "English",
+    "targetLanguage": "Tagalog",
+    "type": "text-input-question",
+    "question": "Run, Forrest, ruuuuuuuuun!",
+    "answer": "Takbo, Forrest, takbo!"
+  }
+]
