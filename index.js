@@ -26,5 +26,10 @@ app.get("/api/cars/:id", function (req, res) {
   res.json(Database.getCarById(id));
 });
 
+app.get("/api/meta-lang/course", function (req, res) {
+  res.json(Database.getCourseList());
+});
+
+
 module.exports = app;
 app.listen(PORT);
