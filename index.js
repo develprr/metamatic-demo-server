@@ -30,6 +30,5 @@ app.get("/api/meta-lang/course", function (req, res) {
   res.json(Database.getCourseList());
 });
 
-
 module.exports = app;
 app.listen(PORT);
