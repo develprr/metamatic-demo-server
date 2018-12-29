@@ -4,5 +4,29 @@
     "_ownerId": 1,
     "name": "Learn Tagalog with Forrest",
     "description": "Tagalog language basic words and phrases taken from Forrest Gump movie"
+  },
+  {
+    "_id": 2,
+    "_ownerId": 1,
+    "name": "Spanish Basic Words",
+    "description": "Essential Spanish vocabularies for beginners"
+  },
+  {
+    "_id": 3,
+    "_ownerId": 1,
+    "name": "Spanish Intermediate Vocabularies",
+    "description": "Useful intermediate vocabularies"
+  },
+  {
+    "_id": 4,
+    "_ownerId": 1,
+    "name": "Spanish Conversational Phrases",
+    "description": "Good packet with useful examples"
+  },
+  {
+    "_id": 5,
+    "_ownerId": 1,
+    "name": "Spanish Advanced Sentences",
+    "description": "Learn to master Spanish with advanced phrases and sentences"
   }
 ]
