@@ -28,5 +28,11 @@
     "_ownerId": 1,
     "name": "Spanish Advanced Sentences",
     "description": "Learn to master Spanish with advanced phrases and sentences"
+  },
+  {
+    "_id": 6,
+    "_ownerId": 1,
+    "name": "Trappistian Basics",
+    "description": "Learn basics of the language spoken by our friends on Trappist 1e"
   }
 ]
